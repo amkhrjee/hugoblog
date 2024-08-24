@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Aniruddha Mukherjee</title>
+    <link>https://blog.amkhrjee.xyz/</link>
+    <description>Recent content in Home on Aniruddha Mukherjee</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.amkhrjee.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>But what&#39;s database pooling?</title>
+      <link>https://blog.amkhrjee.xyz/posts/database-pooling/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.amkhrjee.xyz/posts/database-pooling/</guid>
+      <description>What is Database pooling?</description>
+    </item>
+    <item>
+      <title>Docker Bind Mounts &amp; Volumes</title>
+      <link>https://blog.amkhrjee.xyz/posts/docker-bind-mounts-volumes/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.amkhrjee.xyz/posts/docker-bind-mounts-volumes/</guid>
+      <description>Difference between bind mounts &amp;amp; volumes in docker.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://blog.amkhrjee.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.amkhrjee.xyz/about/</guid>
+      <description>I am Aniruddha. I love making software and building systems. I am from Kolkata, India. I am in the final year of my Bachelor&amp;rsquo;s in Computer Science &amp;amp; Engineering at Tezpur University.&#xA;I have a separate website listing all my projects. Alternatively, you can checkout my GitHub.&#xA;I maintain a list of recommended learning resources for a range of CS, ML &amp;amp; Math topics (you can expect some more fun stuff there).</description>
+    </item>
+  </channel>
+</rss>

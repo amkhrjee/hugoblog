@@ -1,0 +1,83 @@
+baseURL = 'https://blog.amkhrjee.xyz/'
+languageCode = 'en-us'
+title = 'Aniruddha Mukherjee'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+# googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "Aniruddha's Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hello'
+homeIntroContent = """
+I am computer science undrergad at TU, India. I enjoy making software and learning about fundamentals of databases, compilers & operating systems. 
+I am currently working on making semantic search & auto-completion for Bengali & Assamese.  
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = false
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/amkhrjee/"
+
+[[params.social]]
+name = "x"
+url = "https://x.com/amkhrjee"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/user"
+
+[[params.social]]
+name = "personal"
+url = "https://amkhrjee.xyz"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
